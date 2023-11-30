@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+    font-style: italic;
+    font-size: 34px;
+}
+.table1 {
+    background-color: beige;
+    border: 5px;
+    border-color: blue red;
+    border-style: solid;
+}
+th {
+    font-size: large;
+    background-color: burlywood;
+    padding: 10px;
+}
+form {
+    border-style: solid;
+    border-width: 1px;
+    border-color: brown;
+    background-color: antiquewhite;
+}
+.input1 {
+    background-color: aqua;
+}
