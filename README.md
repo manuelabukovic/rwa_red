@@ -1,5 +1,4 @@
 # rwa_red
 
-## Repozitorij za Viedeoteku
-
-Aplikacijs pisana u HTML, CSS, JavaScript, PHP
+## Repozitorij za Videoteku
+Aplikacija pisana u HTML, CSS, JavaScript, PHP
